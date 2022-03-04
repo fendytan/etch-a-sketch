@@ -1,5 +1,5 @@
 # etch-a-sketch
 
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project
+Foundations Project #4 from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/etch-a-sketch-project)
 
-live: https://fendytan.github.io/etch-a-sketch/
+[Live Demo](https://fendytan.github.io/etch-a-sketch/)
